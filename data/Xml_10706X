@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Xml_10706.xsd" generated="2018-06-04T11:24:47">
+<Zip32>
+<Zip5>10058</Zip5>
+<City>臺北市</City>
+<Area>中正區</Area>
+<Road>八德路１段</Road>
+<Scope>全</Scope>
+</Zip32>
+<Zip32>
+<Zip5>10069</Zip5>
+<City>臺北市</City>
+<Area>中正區</Area>
+<Road>汀州路１段</Road>
+<Scope>單  49號至 123號</Scope>
+</Zip32>
+<Zip32>
+<Zip5>10079</Zip5>
+<City>臺北市</City>
+<Area>中正區</Area>
+<Road>汀州路１段</Road>
+<Scope>單 125號至 165號</Scope>
+</Zip32>
+<Zip32>
+<Zip5>10069</Zip5>
+<City>臺中市</City>
+<Area>中西區</Area>
+<Road>汀州路１段</Road>
+<Scope>單  49號至 123號</Scope>
+</Zip32>
+</dataroot>
